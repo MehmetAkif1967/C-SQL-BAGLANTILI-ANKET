@@ -1,0 +1,10 @@
+C:\Users\turka\source\repos\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe.config
+C:\Users\turka\source\repos\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe
+C:\Users\turka\source\repos\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.pdb
+C:\Users\turka\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Form1.resources
+C:\Users\turka\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Properties.Resources.resources
+C:\Users\turka\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.exe
+C:\Users\turka\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.pdb
